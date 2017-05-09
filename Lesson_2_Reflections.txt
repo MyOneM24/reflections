@@ -3,6 +3,8 @@
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+	It offers a temporary workspace for us to add all files we want to add to 
+a single commit
 	
 
 How can you use the staging area to make sure you have one commit per logical
@@ -14,6 +16,8 @@ organized? How would branches help?
 	Helps in experimenting, simultaneous coding, bug fixes
 
 How do the diagrams help you visualize the branch structure?
+	Helps us identify which branches the commits are on, and which are 
+unreached
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
