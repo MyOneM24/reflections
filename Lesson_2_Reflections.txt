@@ -21,6 +21,7 @@ unreached
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	All required changes are retained; To ensure full understanding
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
