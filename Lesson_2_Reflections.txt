@@ -6,7 +6,6 @@ What value do you think it offers?
 	It offers a temporary workspace for us to add all files we want to add to 
 a single commit
 	
-
 How can you use the staging area to make sure you have one commit per logical
 change?
 	Using git diff
@@ -22,3 +21,6 @@ unreached
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 	All required changes are retained; To ensure full understanding
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Keep track of merges, only required ones made
